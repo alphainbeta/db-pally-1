@@ -1,2 +1,3 @@
-# db-pally-1
-This is first chapter of my journey that roots in 2017
+`🕰️ Chapter 1 | 2025`
+
+***S**tories of database paladin standing against army of scourge that attempts to attack and disrupt system stability.*
