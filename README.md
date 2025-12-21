@@ -170,7 +170,7 @@ Every road leads to Rome. System's assests stands on core toolbox that serves as
 No any quest on adventure, nor defeating boss in final raid is possible without good company of same level adventurers. This section give a look especially on team work that creates complete ecosystem that ensures vital functionality of digital world. 
 <br> 
 
-<img width="600" height="550" alt="image" src="https://github.com/user-attachments/assets/085d32e9-cce8-4d9a-9120-595c5661d73e" />
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/085d32e9-cce8-4d9a-9120-595c5661d73e" />
 
 <br>
 <br>
