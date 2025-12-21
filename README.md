@@ -151,18 +151,18 @@ There's multiple projects ensuring stability of system, focused on monitoring an
 <br>
 
 Once data is ready, possibility to bent them is infinite:
-- **Manufacturing Tracking System and Process Control** *Core of automatic driven industries*
+- [**Manufacturing Tracking System and Process Control**](https://github.com/alphainbeta/db-pally-1/blob/main/stems/process-control.md) *Core of automatic driven industries*
   - Supply chain traceability ensuring accessibility and transparency 
   - System and operational support tools ensuring maintainability and configurability 
   - Traffic monitoring ensuring control above solution that stands on high-data availability 
-- **Data Story-Telling** *Properly created data visuals with properly built backend data process*
+- [**Data Story-Telling**](https://github.com/alphainbeta/db-pally-1/blob/main/stems/data-story-tell.md) *Properly created data visuals with properly built backend data process*
   - Analytic Monitoring - Ability to track production indicators using smart screens that keep users informed about the operational status
   - Metric Analysis - Building interactive dashboard panels that supports with their high responsivity or statistical reports for in-depth anylysis 
 - **Continuous Data** *Creation of stable ground for AI era with predictive manufacture*
   - Projects with aim on physical aspects like temperature, moisture, etc. and their regulations that affects production quality of various manufacture divisions
   - Projects with aim on production efficiency like OEE improvements that focuses on cycle times alignment of manufacture devices
 
-Every road leads to Rome. System's assests stands on core toolbox that serves as home for every engineer who's not only directly involved with dev teams, but also for every engineer that interests in industrial data-driven solutions 🏆 **Smart Factory Hub** 
+Every road leads to Rome. System's assests stands on core toolbox that serves as home for every engineer who's not only directly involved with dev teams, but also for every engineer that interests in industrial data-driven solutions 🏆 [**Smart Factory Hub** ](https://github.com/alphainbeta/db-pally-1/blob/main/stems/smart-factory-hub.md)
 
 
 ## 🛡️ Guild | Team & Enviroment
@@ -180,7 +180,7 @@ Maturity of technological base created at scope that is fueled with more than 1K
 - **Solution** - ensuring high quality service by providing analytical tools and operational logics that are created with optimized methods and proper flows in solution dev cycle 
 - **Health** - ensuring major coverage of aspects that ensures system stability including solutions architecture, making communication bridges, simplyfying tasks complexity, reviewing production release candidates and oftenly solving critical situations with troubleshoting where all that creates technical leadership with goal to stick all the team-good together 
 
-**Smart Factory Hub** holds the core position as a operational system that controls digital manufacture with ensuring system vitality, providing operational inteligence and creating stable ground for data-driven industry.
+[**Smart Factory Hub**](https://github.com/alphainbeta/db-pally-1/blob/main/stems/smart-factory-hub.md) holds the core position as a operational system that controls digital manufacture with ensuring system vitality, providing operational inteligence and creating stable ground for data-driven industry.
 
 From such scale of employee base the heart of service providing is constantly forced to situations that requires clearifying in **communications on different type of level**
 - **Service requestors** - high level officers of various divisions are requesting their demands in format of simplyfied ideas that are necessar to clarify in collaborative communication on business level
