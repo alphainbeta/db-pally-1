@@ -13,7 +13,7 @@ What's possible to correctly handle is cooking a good data logic in behind proce
 
 <br>
 
-<img width="700" height="300" alt="obrázok" src="https://github.com/user-attachments/assets/b38d9087-652f-4046-9f32-ea05e5c32b32" />
+<img width="700" height="300" alt="1" src="https://github.com/user-attachments/assets/d6214e29-200f-4d33-a045-8c00b501ac78" />
 
 <br>
 <br>
@@ -29,7 +29,7 @@ Milion ways of tracing informations like operational status, KPIs or any other d
 
 <br>
 
-<img width="800" height="400" alt="obrázok" src="https://github.com/user-attachments/assets/db043f4c-aff4-4f4f-a069-7668e7d86241" />
+<img width="800" height="400" alt="2" src="https://github.com/user-attachments/assets/24f4f2d4-7b78-4512-b0a6-c4c5fe0df3bf" />
 
 <br>
 <br>
@@ -38,4 +38,5 @@ Milion ways of tracing informations like operational status, KPIs or any other d
 
 <br>
 
-<img width="800" height="700" alt="obrázok" src="https://github.com/user-attachments/assets/c63bf727-7a8a-46bb-919f-385c4b7aaec4" />
+<img width="800" height="700" alt="3" src="https://github.com/user-attachments/assets/e7a79d76-3e84-47a9-8e1f-07e5013dc7d7" />
+
