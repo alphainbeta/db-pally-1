@@ -27,7 +27,7 @@ Pure development of such systems are ensured by alpha, global scope dev team who
 
 <br>
 
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/f69e3df1-1e54-447e-862d-9191aac81086" />
+<img width="1000" height="400" alt="1" src="https://github.com/user-attachments/assets/55bf4b1e-929e-4e96-820a-baf2f94a0292" />
 
 <br>
 <br>
@@ -76,7 +76,7 @@ Pure development of such systems are ensured by alpha, global scope dev team who
 
 <br>
 
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/ebea9695-a8fe-4530-abae-8d24ed6d5f44" />
+<img width="700" height="400" alt="2" src="https://github.com/user-attachments/assets/8b04e2e3-94d2-4209-a40f-73845d08091a" />
 
 <br>
 <br>
@@ -107,7 +107,7 @@ This section zoom-in the gear obtained within adventure and tools used on this j
 Here is an overview of the major tools, expressed using mashup layout that crates world of data by combining physical and methodical layers.
 <br>
 
-<img width="760" height="270" alt="obrázok" src="https://github.com/user-attachments/assets/4bff632a-bdc9-4792-beed-4ae985b5f552" />
+<img width="760" height="270" alt="3" src="https://github.com/user-attachments/assets/fbfbd2b2-cf6e-4e92-8a48-f90c9de996de" />
 
 <br>
 <br>
@@ -131,7 +131,7 @@ From data engineering point of view, skillset aim can be expressed in percentage
 
 <br>
 
-<img width="900" height="300" alt="obrázok" src="https://github.com/user-attachments/assets/8628ab4d-67f8-4a6e-b626-5140f66e95bd" />
+<img width="900" height="300" alt="4" src="https://github.com/user-attachments/assets/36ec965a-6613-4574-ba2c-4cd14b5d6769" />
 
 <br>
 <br>
@@ -145,7 +145,7 @@ There's multiple projects ensuring stability of system, focused on monitoring an
 
 <br>
 
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/ad1d48e7-f87e-4fb2-99af-4468f16e142c" />
+<img width="900" height="300" alt="5" src="https://github.com/user-attachments/assets/fa6dd6b6-9364-4c50-8a4a-932b67c3d347" />
 
 <br>
 <br>
@@ -170,7 +170,7 @@ Every road leads to Rome. System's assests stands on core toolbox that serves as
 No any quest on adventure, nor defeating boss in final raid is possible without good company of same level adventurers. This section give a look especially on team work that creates complete ecosystem that ensures vital functionality of digital world. 
 <br> 
 
-<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/085d32e9-cce8-4d9a-9120-595c5661d73e" />
+<img width="500" height="450" alt="6" src="https://github.com/user-attachments/assets/1631bc54-634b-4bfb-942e-c1d7ad24dfec" />
 
 <br>
 <br>
