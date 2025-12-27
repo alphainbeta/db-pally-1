@@ -17,7 +17,7 @@ Whole system lays on ultimate toolbox consists of more than 100 analytical objec
 This makes it a hybrid platform that merges observability, analytics, and operational intelligence that is resulting into operational system for digital manufacture.
 <br>
 
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/c73c6f36-3043-4c41-bdce-52f901285b80" />
+<img width="900" height="600" alt="1" src="https://github.com/user-attachments/assets/cc63cd67-7382-4c4a-a4bd-65bd64bc63d6" />
 
 <br>
 <br>
@@ -34,7 +34,7 @@ It supports to achieve stable pillars for building successful ecosystem:
 Easy access to system features being able to control and reach wherever you are by ability to run it on devices with different nature.
 <br>
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/f4f00c6b-a161-4443-bebd-1b98946eab37" />
+<img width="600" height="500" alt="2" src="https://github.com/user-attachments/assets/f494a449-95fe-43e2-bef6-19c10bcd0dc7" />
 
 <br>
 <br>
