@@ -5,7 +5,7 @@ Motivation to push into fully automated lines to eliminate human factor where ob
 
 <br>
 
-<img width="900" height="300" alt="obrázok" src="https://github.com/user-attachments/assets/d22a294f-b7ec-4361-9ad1-a9d9582c07e8" />
+<img width="900" height="300" alt="1" src="https://github.com/user-attachments/assets/a9a19e86-6dd3-4a62-8043-f3a2af59ad6c" />
 
 <br>
 <br>
@@ -15,7 +15,7 @@ Based on identification of every object is possible to check and validate their 
 
 <br>
 
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/4deabf35-a44e-404d-a0c4-9a4358e9fdc2" />
+<img width="900" height="300" alt="2" src="https://github.com/user-attachments/assets/7bd81ddf-a6f2-4e11-a543-05cd1e737210" />
 
 <br>
 <br>
@@ -27,8 +27,8 @@ At traffic load of million rows per month it leads to heartbeat pulse like reque
 
 <br>
 
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/6f6a29a5-7838-4855-ae80-8a6b6b14b01d" />
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/87149fcc-9080-48e7-9159-b3dfded2eaa9" />
+<img width="900" height="500" alt="3" src="https://github.com/user-attachments/assets/998d5da6-3ebb-4f62-b76e-87801ea015a1" />
+<img width="900" height="500" alt="4" src="https://github.com/user-attachments/assets/4cd6867e-698c-4b0a-8b8b-0c936c3f6786" />
 
 <br>
 <br>
@@ -38,4 +38,5 @@ It's a set of tools ensuring operational excellence by accessing essential eleme
 
 <br>
 
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/5ac6b9e7-52d0-446b-a326-b2f90d6b55d5" />
+<img width="900" height="300" alt="5" src="https://github.com/user-attachments/assets/d477592a-6ba5-4b5b-8476-3b8d3d0ce6e4" />
+
