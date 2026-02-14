@@ -7,19 +7,19 @@ Session includes aim on mentoring and couching could be possible divide:
 
 ## Session Summary
 
-### 🧩 Technical Issues
+### Technical Issues
 - Alexandra modified the report to include new requirements (e.g., a new row showing success rate).
 - A problem arose with calculating percentages, as they are based on different totals (e.g., total number of parts vs. just one pressurization cycle).
 - The use of conditional parameters didn’t work as expected – some parameter combinations in the report led to unclear or illogical results.
 - Alexandra considered various solutions: splitting the report, adjusting the code, adding columns for each pressurization cycle and their combinations.
 
-### 🧠 Analytical and User Challenges
+### Analytical and User Challenges
 - The report is technically functional, but it may be confusing for an average user.
 - Alexandra is concerned that without explanation, users won’t understand what the numbers actually represent.
 - She’s considering creating a guide or accompanying documentation.
 - The meeting where she was supposed to present the report was canceled, making communication with users more difficult.
 
-### 💡 Recommendations Mentioned
+### Recommendations Mentioned
 - Organize a meeting with all stakeholders to align on requirements.
 - Explain the report’s logic and its limitations in an accompanying email.
 - Consider alternative solutions (e.g., separate reports, adjusting the calculation logic).
@@ -27,13 +27,13 @@ Session includes aim on mentoring and couching could be possible divide:
 
 ## Team Relation
 
-### 👤 Jakub
+### Jakub
 - Appears to be a technical lead, analyst, or senior developer.
 - Acts as a facilitator and consultant in both conversations.
 - Provides feedback, asks clarifying questions, and helps others troubleshoot or validate their logic.
 - Likely responsible for overseeing or integrating the work of others into a broader system or reporting framework.
 
-### 👩 Alexandra 
+### Alexandra 
 - Likely a report developer, data analyst, or BI specialist.
 - Works on creating and optimizing data reports.
 - Consults Jakub for technical validation and feedback.
