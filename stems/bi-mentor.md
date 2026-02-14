@@ -35,13 +35,10 @@ Session includes aim on mentoring and couching could be possible divide:
 
 ### 👩 Alexandra 
 - Likely a report developer, data analyst, or BI specialist.
-- Works on creating and optimizing data reports (e.g., success rates of pressurization and painting processes).
+- Works on creating and optimizing data reports.
 - Consults Jakub for technical validation and feedback.
 - Shows initiative and ownership over her work, but seeks support when logic or user expectations become unclear.
   
-Relationship with Jakub:
-Collaborative and supportive. Jakub acts as a mentor or peer reviewer, helping Alexandra refine her solution and navigate user expectations.
-
 ## Session Record
 
 Demonstration is available as .mp3 audio file, able to directly stream at <b>SoundCloud</b> platform.
