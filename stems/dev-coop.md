@@ -25,7 +25,8 @@ Collegial and technical. Work together to debug or redesign system logic, likely
 
 ## Session
 
-Demonstration is available as .mp3 audio file, able to directly stream at SoundCloud platform.
+Demonstration is available as .mp3 audio file, able to directly stream at <b>SoundCloud</b> platform.
+It's best example based on raw experience how's important that things needs to click together.
 
 https://on.soundcloud.com/0tgRhlAtM95si8yv5K
 
