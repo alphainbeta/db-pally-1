@@ -44,6 +44,6 @@ Session includes aim on mentoring and couching could be possible divide:
   
 ## Session Record
 
-Demonstration is available as .mp3 audio file, able to directly stream at <b>SoundCloud</b> platform.
+Demonstration is available as .mp3 audio file, able to directly stream at <b>SoundCloud</b> platform. It's best example based on raw experience how's important that things needs to click together.
 
 https://on.soundcloud.com/Mrzot6hQNveXlYaM7f
