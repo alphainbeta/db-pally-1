@@ -5,10 +5,7 @@ Session includes aim on mentoring and couching could be possible divide:
 - 1st part: clear technical support on practical case where's necessar to react on specific situation and live-act
 - 2nd part: diplomaticaly led apprentice to think about best way of product delivery and grow awareness about her real skillset 
 
-<br>
-
 <img width="800" height="700" alt="3" src="https://github.com/user-attachments/assets/e7a79d76-3e84-47a9-8e1f-07e5013dc7d7" />
-<br>
 <br>
 
 ## Session Summary
